@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Form Page</title>
+</head>
+<body>
+    <h1>Contact Form</h1>
+    <p>Please fill out the form below:</p>
+
+    <div
+        data-form-id="c7a0c7f1-2758-f011-877a-6045bdd67f5c"
+        data-form-api-url="https://public-usa.mkt.dynamics.com/api/v1.0/orgs/07c974c9-d641-ee11-94d0-002248282e0c/landingpageforms"
+        data-cached-form-url="https://assets-usa.mkt.dynamics.com/07c974c9-d641-ee11-94d0-002248282e0c/digitalassets/forms/c7a0c7f1-2758-f011-877a-6045bdd67f5c?utm_source=newsletter&utm_medium=email&utm_campaign=summer2025">
+    </div>
+
+    <script src="https://cxppusa1formui01cdnsa01-endpoint.azureedge.net/usa/FormLoader/FormLoader.bundle.js"></script>
+</body>
+</html>
